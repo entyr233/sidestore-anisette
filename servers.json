@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "My Render Server",
+            "address": "https://sidestore-server-1112.onrender.com"
+        }
+    ]
+}
